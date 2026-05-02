@@ -1,4 +1,4 @@
-# Telegram Job Agent — n8n Automation Pipeline
+# Telegram Job Agent - n8n Automation Pipeline
 
 <p align="center">
   <img src="./images/hero.png" alt="Telegram Job Agent n8n automation hero banner" width="100%" />
